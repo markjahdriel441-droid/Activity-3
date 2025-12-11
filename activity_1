@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Menu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Our Menu</h1>
+        <div class="menu-items">
+            <div class="item">
+                <h3>Burger</h3>
+                <p>$12.99 - Juicy beef patty with cheese</p>
+            </div>
+            <div class="item">
+                <h3>Pizza</h3>
+                <p>$15.99 - Margherita with fresh basil</p>
+            </div>
+            <div class="item">
+                <h3>Salad</h3>
+                <p>$8.99 - Fresh greens and vinaigrette</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
