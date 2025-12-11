@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Event Poster</title>
+    <link rel="stylesheet" href="poster.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="poster">
+        <div class="top-section">
+            <h1>LIVE CONCERT</h1>
+            <h2>Rock Legends Night</h2>
+        </div>
+        <div class="date-time">
+            <h3>Friday, Dec 19th</h3>
+            <p>8:00 PM - Midnight</p>
+        </div>
+        <div class="venue">
+            <h3>City Arena</h3>
+            <p>123 Music St, Downtown</p>
+        </div>
+        <div class="cta">
+            <h4>TICKETS: $25</h4>
+            <button>GET T
